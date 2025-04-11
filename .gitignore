@@ -39,4 +39,5 @@ release/
 # Dependencies
 *.d
 
+.cache/clangd/index
 compile_commands.json
