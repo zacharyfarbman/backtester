@@ -38,3 +38,5 @@ release/
 
 # Dependencies
 *.d
+
+*.json
