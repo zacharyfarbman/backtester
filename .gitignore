@@ -39,4 +39,4 @@ release/
 # Dependencies
 *.d
 
-*.json
+compile_commands.json
